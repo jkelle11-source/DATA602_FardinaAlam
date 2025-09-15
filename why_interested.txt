@@ -1,0 +1,25 @@
+Why am I interested in taking DATA602?
+
+My journey to this class began six years ago, when I took my first course on Excel,
+required by my Marketing program at Ohio State. I fell in love with the ability of 
+spreadsheets to bring order to chaos, and to help us understand the world. While 
+researching Excel tips and methods, I came across a post on a forum that said, 
+"Excel users find answers. Programmers create solutions." 
+
+The idea behind this quote is that Excel users (like financial analysts, for example) 
+approach each dataset as new, creating pivot tables and calculating summary statistics 
+from scratch. On the other hand, programmers design ways to gather deeper insight from 
+all datasets of a similar type with the mere press of the "Run" button. This notion deeply 
+intrigued me, and I signed up for the "Programming Java" class a year later. Working on the 
+labs in that class gave me a feeling I've never had before, where the outside world and all 
+its stressors totally melted away, leaving only me, my terminal, and the joy of hitting "Run" 
+and seeing zero errors.
+
+Following this experience, I fully dove in, signing up for the data science certification 
+from DataCamp and exploring ways to apply what I learned in my marketing internships. 
+Leveraging the tools that DataCamp gave me led to great success for years, but I was always 
+hungry to learn more. This hunger led me to the MSDS program, which to me is an incredible 
+opportunity to learn from data scientists at the very forefront of the field, rather than act
+as my own mentor as I did with DataCamp. What excites me most about this class is the chance 
+to explore the data science process end-to-end, under the guidance of a proven mentor and 
+leader in the field. I can't wait to begin.
